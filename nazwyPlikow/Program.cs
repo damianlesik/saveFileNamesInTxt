@@ -23,6 +23,7 @@ namespace nazwyPlikow
                         fileNamesWithoutExtension();
                         break;
                     case "2":
+                        saveFileNamesInTxt();
                         break;
                     case "3":
                         done = true;
@@ -47,6 +48,36 @@ namespace nazwyPlikow
             {
                 Console.WriteLine(file);
             }
+        }
+        static void saveFileNamesInTxt()
+        {
+            var currentDirectory = Directory.GetCurrentDirectory();
+            var files = Directory.GetFiles(currentDirectory);
+            var fileNames = new List<string>();
+            foreach (var file in files)
+            {
+                fileNames.Add(Path.GetFileName(file));
+            }
+            FileInfo namesFile = new FileInfo(currentDirectory + "\\names.txt");
+            try
+            {
+                if (namesFile.Exists)
+                {
+                    namesFile.Delete();
+                }
+                var streamWriter = namesFile.CreateText();
+                foreach (var fileName in fileNames)
+                {
+                    streamWriter.WriteLine(fileName);
+                }
+                streamWriter.Close();
+            }
+            catch (Exception)
+            {
+                Console.WriteLine("Error, cannot write the filenames into TXT");
+                throw;
+            }
+            
         }
     }
 }

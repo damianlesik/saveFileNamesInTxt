@@ -1,0 +1,4 @@
+names.txt
+nazwyPlikow.exe
+nazwyPlikow.exe.config
+nazwyPlikow.pdb
