@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // Ogólne informacje o zestawie są kontrolowane poprzez następujący 
 // zestaw atrybutów. Zmień wartości tych atrybutów, aby zmodyfikować informacje
 // powiązane z zestawem.
-[assembly: AssemblyTitle("nazwyPlikow")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("saveFileNamesInTxt")]
+[assembly: AssemblyDescription("saves file names of current Directory in a txt")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("nazwyPlikow")]
-[assembly: AssemblyCopyright("Copyright ©  2021")]
+[assembly: AssemblyProduct("saveFileNamesInTxt")]
+[assembly: AssemblyCopyright("Damian Lesik Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

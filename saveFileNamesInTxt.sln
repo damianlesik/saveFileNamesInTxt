@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nazwyPlikow", "nazwyPlikow\nazwyPlikow.csproj", "{EABD0BB4-B034-474C-AF31-F24035EF9EF0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "saveFileNamesInTxt", "saveFileNamesInTxt\saveFileNamesInTxt.csproj", "{EABD0BB4-B034-474C-AF31-F24035EF9EF0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

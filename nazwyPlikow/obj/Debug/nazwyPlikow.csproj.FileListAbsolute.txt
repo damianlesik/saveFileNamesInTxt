@@ -1,7 +1,0 @@
-E:\dev\nazwyPlikow\nazwyPlikow\bin\Debug\nazwyPlikow.exe.config
-E:\dev\nazwyPlikow\nazwyPlikow\bin\Debug\nazwyPlikow.exe
-E:\dev\nazwyPlikow\nazwyPlikow\bin\Debug\nazwyPlikow.pdb
-E:\dev\nazwyPlikow\nazwyPlikow\obj\Debug\nazwyPlikow.csprojAssemblyReference.cache
-E:\dev\nazwyPlikow\nazwyPlikow\obj\Debug\nazwyPlikow.csproj.CoreCompileInputs.cache
-E:\dev\nazwyPlikow\nazwyPlikow\obj\Debug\nazwyPlikow.exe
-E:\dev\nazwyPlikow\nazwyPlikow\obj\Debug\nazwyPlikow.pdb

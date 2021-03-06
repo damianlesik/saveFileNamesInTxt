@@ -1,0 +1,7 @@
+E:\dev\saveFileNamesInTxt\saveFileNamesInTxt\bin\Debug\nazwyPlikow.exe.config
+E:\dev\saveFileNamesInTxt\saveFileNamesInTxt\bin\Debug\nazwyPlikow.exe
+E:\dev\saveFileNamesInTxt\saveFileNamesInTxt\bin\Debug\nazwyPlikow.pdb
+E:\dev\saveFileNamesInTxt\saveFileNamesInTxt\obj\Debug\saveFileNamesInTxt.csprojAssemblyReference.cache
+E:\dev\saveFileNamesInTxt\saveFileNamesInTxt\obj\Debug\saveFileNamesInTxt.csproj.CoreCompileInputs.cache
+E:\dev\saveFileNamesInTxt\saveFileNamesInTxt\obj\Debug\nazwyPlikow.exe
+E:\dev\saveFileNamesInTxt\saveFileNamesInTxt\obj\Debug\nazwyPlikow.pdb
